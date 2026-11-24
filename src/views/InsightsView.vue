@@ -1,0 +1,1 @@
+<template><section class="panel insight"><span class="eyebrow">Evidence guidance</span><h2>Comparable workforce evidence should connect investment in people to measurable policy outcomes</h2><p>Analysts can align skills gaps, participation, learning, job quality and data confidence while keeping national context visible.</p></section></template>
